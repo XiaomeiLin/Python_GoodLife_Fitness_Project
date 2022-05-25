@@ -1,4 +1,5 @@
-# Business Intelligence Python Project - GoodLife Fitness by Xiaomei Lin
+# Business Intelligence Python Project 
+# - GoodLife Fitness by Xiaomei Lin
 
 
 ## Context
